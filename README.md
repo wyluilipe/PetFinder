@@ -1,6 +1,6 @@
 # PetFinder
 Kaggle competition "PetFinder", they need to calculate popularity of some pet's photos.
-### Description
+## Description
 A picture is worth a thousand words. But did you know a picture can save a thousand lives? Millions of stray animals suffer on the streets or are euthanized in shelters every day around the world. You might expect pets with attractive photos to generate more interest and be adopted faster. But what makes a good picture? With the help of data science, you may be able to accurately determine a pet photo’s appeal and even suggest improvements to give these rescue animals a higher chance of loving homes.
 
 PetFinder.my is Malaysia’s leading animal welfare platform, featuring over 180,000 animals with 54,000 happily adopted. PetFinder collaborates closely with animal lovers, media, corporations, and global organizations to improve animal welfare.
@@ -13,7 +13,7 @@ If successful, your solution will be adapted into AI tools that will guide shelt
 
 Top participants may be invited to collaborate on implementing their solutions and creatively improve global animal welfare with their AI skills.
 
-### Data
+## Data
 In this competition, your task is to predict engagement with a pet's profile based on the photograph for that profile. You are also provided with hand-labelled metadata for each photo. The dataset for this competition therefore comprises both images and tabular data.
 
 #### How Pawpularity Score Is Derived
